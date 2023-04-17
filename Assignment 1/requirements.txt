@@ -1,0 +1,10 @@
+graphviz
+h5py
+ipykernel
+matplotlib
+numpy
+pydot
+pyyaml
+scikit-learn
+tensorflow
+tqdm
