@@ -1,0 +1,9 @@
+https://github.com/stopwords-iso/stopwords-sv
+https://stackoverflow.com/questions/42742810/speed-up-millions-of-regex-replacements-in-python-3/42747503#42747503
+https://www.tensorflow.org/tutorials/text/word2vec#model_and_training
+https://www.tensorflow.org/text/guide/word_embeddings
+https://leimao.github.io/blog/Byte-Pair-Encoding/
+https://towardsdatascience.com/word2vec-skip-gram-model-part-1-intuition-78614e4d6e0b
+
+
+https://keras.io/api/keras_nlp/
