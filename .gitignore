@@ -3,5 +3,4 @@ venv/*
 *.png
 *.svg
 *.rar
-*.tsv
 /**/logs

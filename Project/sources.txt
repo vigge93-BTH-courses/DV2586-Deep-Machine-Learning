@@ -7,3 +7,21 @@ https://towardsdatascience.com/word2vec-skip-gram-model-part-1-intuition-78614e4
 
 
 https://keras.io/api/keras_nlp/
+
+Transform dataset:
+1hs
+
+BPE:
+14h
+
+Tokenize:
+7h
+
+Embedding train data:
+6min
+
+Embedder training:
+20min
+
+CountVectorizer:
+MemoryError: Unable to allocate 4.20 PiB for an array with shape (193900721, 3049430) and data type int64
